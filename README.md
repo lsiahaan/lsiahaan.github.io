@@ -1,4 +1,6 @@
-lsiahaan.github.io
-==================
+# Laura Siahaan's Website Repo
 
-lsiahaan's Website
+##Objectives
+Show commits history
+Interact with remotes
+Show sync processes
