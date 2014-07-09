@@ -5,3 +5,7 @@
 * Interact with remotes
 * Show sync processes
 	* Add more bullet points
+
+##Commands to use
+* 'git push'
+* 'git pull'
