@@ -4,3 +4,4 @@
 * Show commits history
 * Interact with remotes
 * Show sync processes
+	* Add more bullet points
